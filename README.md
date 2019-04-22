@@ -30,7 +30,22 @@
 第九章  量化投资  
 第十章  装逼展示  
 ```
-<font color ="red"><b><i>已完成 链接版本目录</font>  
+目录释义
+```
+basic/ 基础篇
+ --math/
+ --python/
+advance/ 进阶篇
+ --
+ --
+match/ 竞赛篇
+ --
+ --
+subject/ 实战篇
+ --
+ --
+```
+<font color ="red"><b>已完成 链接版本目录</b></font>  
 
 第一部分 基础篇  
 第1章 数学基础  
@@ -39,6 +54,8 @@
 2.1 [环境配置](basic/python/环境配置.md)  
 2.2.0 [说明部分](basic/python/python基础.md)  
 2.2.1 [python基本语法](basic/python/yufa.md)  
+
+#### 联系我
 
 也希望能和知识图谱每天都更新，更新会在wx公众号，也会在github。  
 wx公众号:aokisec  
