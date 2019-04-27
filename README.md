@@ -47,7 +47,7 @@ subject/ 实战篇
 ```
 <font color ="red"><b>已完成 链接版本目录</b></font>  
 
-第一部分 基础篇  
+第一部分 基础进阶篇  
 第1章 数学基础  
 1.1 [数学基础](basic/math/数学基础.md)  
 1.2 [统计学习方法](basic/math/统计学习方法.md)
@@ -58,6 +58,7 @@ subject/ 实战篇
 2.2.1 [python基本语法](basic/python/python-syntax.md)  
 2.2.2  
 
+第二部分 竞赛实战篇  
 第3章 竞赛篇  
 3.0  [非技术实时文--最近比赛报告](match/match-recent-report.md)  
 3.1  [cv竞赛之去雨](match/cv-match1.md)  
