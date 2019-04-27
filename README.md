@@ -78,4 +78,8 @@ subject/ 实战篇
 也希望能和知识图谱每天都更新，更新会在wx公众号，也会在github。  
 wx公众号:aokisec  
 
-![1.png](qrcode.png)
+![1.png](qrcode.png){:height="100" width="100"}    
+
+wx号:F182499  
+tel:15677405040  
+![二维码](selfqrcode.jpg){:height="100" width="100"}  
