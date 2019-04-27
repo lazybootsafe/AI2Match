@@ -53,7 +53,15 @@ subject/ 实战篇
 第2章 python基础  
 2.1 [环境配置](basic/python/环境配置.md)  
 2.2.0 [说明部分](basic/python/python基础.md)  
-2.2.1 [python基本语法](basic/python/yufa.md)  
+2.2.1 [python基本语法](basic/python/python-syntax.md)  
+
+第3章 竞赛篇  
+3.1  [cv竞赛之去雨](match/cv-match1.md)  
+3.2  
+
+第4章  实战篇  
+4.1 [一篇搞笑文章--"安全圈"与"娱乐圈"](subject/安全圈与娱乐圈.md)
+
 
 #### 联系我
 
