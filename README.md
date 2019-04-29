@@ -65,8 +65,9 @@ subject/ 实战篇
 3.0  [非技术实时文--最近比赛报告](match/match-recent-report.md)  
 3.1  [cv竞赛之去雨](match/cv-match1.md)  
 3.2  [cv竞赛之商品识别]  
-3.3  [cv竞赛之人群异常行为检测]
-3.4  [NLP竞赛之情感分析]
+3.3  [cv竞赛之人群异常行为检测]  
+3.4  [NLP竞赛之情感分析]  
+3.5  [cv竞赛之flyai]
 
 第4章  实战篇  
 4.0 [非技术实时文--最近实战效果报告](subject/subject-recent-report.md)  
