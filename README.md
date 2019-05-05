@@ -72,7 +72,7 @@ subject/ 实战篇
 第4章  实战篇  
 4.0 [非技术实时文--最近实战效果报告](subject/subject-recent-report.md)  
 4.1 [一篇搞笑文章--"安全圈"与"娱乐圈"](subject/安全圈与娱乐圈.md)  
-4.2 [量化投资之TensorFlow实操](subject/tf-investment.md)  
+4.2 [量化投资之TensorFlow实操](subject/tf-invest/tf-investment.md)  
 4.3 信息分析...  
 
 
