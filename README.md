@@ -75,6 +75,7 @@ subject/ 实战篇
 4.2 [量化投资之TensorFlow实操](subject/tf-invest/tf-investment.md)  
 4.3 信息分析...  
 
+-----
 
 #### 联系我
 
@@ -89,3 +90,6 @@ wx公众号:aokisec
 wx号:F182499  
 tel:15677405040  
 ![二维码](selfqrcode.jpg)  
+
+----
+最近一直在写算法代码,很麻烦~~接下来会分析阿里新开源的MNN,确实还不错.
