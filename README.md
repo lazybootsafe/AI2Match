@@ -52,7 +52,8 @@ subject/ 实战篇
 第一部分 基础进阶篇  
 第1章 数学基础  
 1.1 [数学基础](basic/math/数学基础.md)  
-1.2 [统计学习方法](basic/math/统计学习方法.md)
+1.2 [统计学习方法](basic/math/统计学习方法.md)  
+1.3 [概率论与数理统计](basic/math/概率论与数理统计.md)  
 
 第2章 python基础  
 2.1 [环境配置](basic/python/环境配置.md)  
