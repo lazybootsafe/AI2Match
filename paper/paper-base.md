@@ -292,8 +292,9 @@ Systems
 举办时间： 2020.10.24~2020.10.30  
 H 指数： 50  
 *****
-### 会 议 名 称 ： ACM International Conference on Information and
-Knowledge Management  
+### CIKM 2020   
+会 议 名 称 ： ACM International Conference on Information and
+Knowledge Management   
 会议地点： Galway, Ireland  
 截稿时间: 2020.05.22  
 举办时间： 2020.10.19~2020.10.23  
