@@ -1,7 +1,8 @@
 # AI2match
 在实验室工作，将来可能会当老师，先行写一部教程出来，从0开始学习.  
 基础进阶篇数学 python 机器学习 等  
-实战竞赛篇 竞赛cvpr 天池 kaggle等，量化投资实战等。
+实战竞赛篇 竞赛cvpr 天池 kaggle等，量化投资实战等。  
+About: <a href="http://evilxyz.xyz/?page_id=12">http://evilxyz.xyz/?page_id=12</a>  
 
 
 
@@ -76,7 +77,12 @@ subject/ 实战篇
 4.0 [非技术实时报告文--最近实战效果报告](subject/subject-recent-report.md)  
 4.1 [一篇搞笑文章--"安全圈"与"娱乐圈"](subject/安全圈与娱乐圈.md)  
 4.2 [量化投资之TensorFlow实操](subject/tf-invest/tf-investment.md)  
-4.3 信息分析...  
+4.3 信息分析...   
+4.4 自行查阅subject/文件夹... 很多公众号的草稿都放在这里...  
+
+第三部分 论文写作篇  
+第5章  论文篇  
+5.1 [顶会时间表](paper/paper-base.md)  
 
 -----
 
