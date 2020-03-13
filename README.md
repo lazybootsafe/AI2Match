@@ -33,21 +33,6 @@ About: <a href="http://evilxyz.xyz/?page_id=12">http://evilxyz.xyz/?page_id=12</
 第九章  量化投资  
 第十章  装逼展示  
 ```
-目录释义
-```
-basic/ 基础篇
- --math/
- --python/
-advance/ 进阶篇
- --
- --
-match/ 竞赛篇
- --
- --
-subject/ 实战篇
- --
- --
-```
 <font color ="red"><b>已完成 正在努力完成中 链接版本目录</b></font>  
 
 第一部分 基础进阶篇  
@@ -62,27 +47,36 @@ subject/ 实战篇
 2.2.1 [python基本语法](basic/python/python-syntax.md)  
 2.2.2  
 
+第3章 机器学习笔记  
+3.1  [less1](notes/MLNote/less1.md)  
+3.2  [less2](notes/MLNote/less1.md)  
+3.x  [手推公式](notes/shoutui.pdf)  
+
+第4章 深度学习笔记  
+
+
 第二部分 竞赛实战篇  
-第3章 竞赛篇  
-3.0  [非技术实时文--最近比赛报告](match/match-recent-report.md)  
-3.1  [cv竞赛之去雨](match/cv-match1.md)  
-3.2  [cv竞赛之商品识别]  
-3.3  [cv竞赛之人群异常行为检测]  
-3.4  [NLP竞赛之情感分析]  
-3.5  [cv竞赛之flyai]  
-3.6  [cv竞赛之遥感]  
-3.7  [数据算法竞赛之算法设计]  
+第5章 竞赛篇  
+5.0  [非技术实时文--最近比赛报告](match/match-recent-report.md)  
+5.1  [cv竞赛之去雨](match/cv-match1.md)  
+5.2  [cv竞赛之商品识别]  
+5.3  [cv竞赛之人群异常行为检测]  
+5.4  [NLP竞赛之情感分析]  
+5.5  [cv竞赛之flyai]  
+5.6  [cv竞赛之遥感]  
+5.7  [数据算法竞赛之算法设计]  
 
 第4章  实战篇  
-4.0 [非技术实时报告文--最近实战效果报告](subject/subject-recent-report.md)  
-4.1 [一篇搞笑文章--"安全圈"与"娱乐圈"](subject/安全圈与娱乐圈.md)  
-4.2 [量化投资之TensorFlow实操](subject/tf-invest/tf-investment.md)  
-4.3 信息分析...   
-4.4 自行查阅subject/文件夹... 很多公众号的草稿都放在这里...  
+6.0 [非技术实时报告文--最近实战效果报告](subject/subject-recent-report.md)  
+6.1 [一篇搞笑文章--"安全圈"与"娱乐圈"](subject/安全圈与娱乐圈.md)  
+6.2 [量化投资之TensorFlow实操](subject/tf-invest/tf-investment.md)  
+6.3 信息分析...   
+6.4 自行查阅subject/文件夹... 很多公众号的草稿都放在这里...  
 
 第三部分 论文写作篇  
 第5章  论文篇  
-5.1 [顶会时间表](paper/paper-base.md)  
+7.0 [前置说明](paper/paper-introduce.md)  
+7.1 [顶会时间表](paper/paper-base.md)  
 
 -----
 
