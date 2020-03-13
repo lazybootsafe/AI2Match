@@ -2,10 +2,10 @@
 课程位置：https://www.bilibili.com/video/av85507974
 
 四大部分：
-When Can Machine Learn?
-Why Can Machine Learn?
-How Can Machine Learn?
-How Can Machine Learn Better?
+- When Can Machine Learn?
+- Why Can Machine Learn?
+- How Can Machine Learn?
+- How Can Machine Learn Better?
 
 ### 什么是机器学习  
 
