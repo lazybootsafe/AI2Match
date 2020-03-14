@@ -45,38 +45,41 @@ About: <a href="http://evilxyz.xyz/?page_id=12">http://evilxyz.xyz/?page_id=12</
 2.1 [环境配置](basic/python/环境配置.md)  
 2.2.0 [说明部分](basic/python/python基础.md)  
 2.2.1 [python基本语法](basic/python/python-syntax.md)  
-2.2.2  
+2.2.2  [python进阶]()  
 
 第3章 机器学习笔记  
 3.1  [less1](notes/MLNote/less1.md)  
-3.2  [less2](notes/MLNote/less1.md)  
+3.2  [less2](notes/MLNote/less2.md)  
+3.3  [less3](notes/MLNote/less3.md)  
 3.x  [手推公式](notes/shoutui.pdf)  
 
 第4章 深度学习笔记  
 
+第5章 模型与库  
+
 
 第二部分 竞赛实战篇  
-第5章 竞赛篇  
-5.0  [非技术实时文--最近比赛报告](match/match-recent-report.md)  
-5.1  [cv竞赛之去雨](match/cv-match1.md)  
-5.2  [cv竞赛之商品识别]  
-5.3  [cv竞赛之人群异常行为检测]  
-5.4  [NLP竞赛之情感分析]  
-5.5  [cv竞赛之flyai]  
-5.6  [cv竞赛之遥感]  
-5.7  [数据算法竞赛之算法设计]  
+第6章 竞赛篇  
+6.0  [非技术实时文--最近比赛报告](match/match-recent-report.md)  
+6.1  [cv竞赛之去雨](match/cv-match1.md)  
+6.2  [cv竞赛之商品识别]  
+6.3  [cv竞赛之人群异常行为检测]  
+6.4  [NLP竞赛之情感分析]  
+6.5  [cv竞赛之flyai]  
+6.6  [cv竞赛之遥感]  
+6.7  [数据算法竞赛之算法设计]  
 
-第4章  实战篇  
-6.0 [非技术实时报告文--最近实战效果报告](subject/subject-recent-report.md)  
-6.1 [一篇搞笑文章--"安全圈"与"娱乐圈"](subject/安全圈与娱乐圈.md)  
-6.2 [量化投资之TensorFlow实操](subject/tf-invest/tf-investment.md)  
-6.3 信息分析...   
-6.4 自行查阅subject/文件夹... 很多公众号的草稿都放在这里...  
+第7章  实战篇  
+7.0 [非技术实时报告文--最近实战效果报告](subject/subject-recent-report.md)  
+7.1 [一篇搞笑文章--"安全圈"与"娱乐圈"](subject/安全圈与娱乐圈.md)  
+7.2 [量化投资之TensorFlow实操](subject/tf-invest/tf-investment.md)  
+7.3 信息分析...   
+7.4 自行查阅subject/文件夹... 很多公众号的草稿都放在这里...   
 
 第三部分 论文写作篇  
-第5章  论文篇  
-7.0 [前置说明](paper/paper-introduce.md)  
-7.1 [顶会时间表](paper/paper-base.md)  
+第8章  论文篇  
+8.0 [前置说明](paper/paper-introduce.md)  
+8.1 [顶会时间表](paper/paper-base.md)  
 
 -----
 
