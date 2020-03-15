@@ -51,6 +51,7 @@ About: <a href="http://evilxyz.xyz/?page_id=12">http://evilxyz.xyz/?page_id=12</
 3.1  [less1](notes/MLNote/less1.md)  
 3.2  [less2](notes/MLNote/less2.md)  
 3.3  [less3](notes/MLNote/less3.md)  
+3.4  [less4](notes/MLNote/less4.md)  
 3.x  [手推公式](notes/shoutui.pdf)  
 
 第4章 深度学习笔记  
