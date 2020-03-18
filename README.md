@@ -52,6 +52,9 @@ About: <a href="http://evilxyz.xyz/?page_id=12">http://evilxyz.xyz/?page_id=12</
 3.2  [less2](notes/MLNote/less2.md)  
 3.3  [less3](notes/MLNote/less3.md)  
 3.4  [less4](notes/MLNote/less4.md)  
+3.5  [less5](notes/MLNote/less5.md)  
+3.6  [less6](notes/MLNote/less6.md)  
+3.7  [less7](notes/MLNote/less7.md)  
 3.x  [手推公式](notes/shoutui.pdf)  
 
 第4章 深度学习笔记  
@@ -63,7 +66,7 @@ About: <a href="http://evilxyz.xyz/?page_id=12">http://evilxyz.xyz/?page_id=12</
 第6章 竞赛篇  
 6.0  [非技术实时文--最近比赛报告](match/match-recent-report.md)  
 6.1  [cv竞赛之去雨](match/cv-match1.md)  
-6.2  [cv竞赛之商品识别]  
+6.2  [nlp之中文词汇学习/知识蒸馏](match/chnlp/README.md)  
 6.3  [cv竞赛之人群异常行为检测]  
 6.4  [NLP竞赛之情感分析]  
 6.5  [cv竞赛之flyai]  
@@ -87,11 +90,7 @@ About: <a href="http://evilxyz.xyz/?page_id=12">http://evilxyz.xyz/?page_id=12</
 #### 联系我
 
 <del>也希望能和知识图谱每天都更新，更新会在wx公众号，也会在github。</del>  
-最近在疯狂打比赛,估计很多地方的更新都会放下.读题目,理解题目,建模,算法,优化,再优化,report,论文,每一个都是很花时间的:)   
-这一年的比赛几乎都报了名了,CV类别的就有十多个,GANs这块的也有,NLP也有几个;强化学习的专业比赛感觉没找到,论文的话打算是在康纳尔大学论文库上投;    
-CVPR ICML AAAI 已经凉了,还得继续加油ヾ(◍°∇°◍)ﾉﾞ  
-学生们问我为什么不投学报 中心期刊,sorry,我对国内所有投稿均无兴趣.  
-
+最近在疯狂打比赛,估计很多地方的更新都会放下
 wx公众号:aokisec  
 
 ![1.png](qrcode.png)    
