@@ -1,4 +1,4 @@
-## 笔记6 ­­ The VC Dimension
+## 笔记7 ­­ The VC Dimension
 课程位置：https://www.bilibili.com/video/av85507974  
 
 前几节课着重介绍了机器能够学习的条件并做了详细的推导和解释。机器能够学习必
