@@ -15,3 +15,6 @@
 2.3 python编程库(注意,此教程非pythonweb 或者其他开发,针对的是ai方向)  
 暂定有Numpy Scipy matplotlib scikit-learn pandas anaconda等   
 ```
+
+[python讲解](第七节-python语言讲解.pptx)  
+[代码示例](第7节python源代码)  
