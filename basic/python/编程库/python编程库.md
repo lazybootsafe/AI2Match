@@ -8,4 +8,11 @@
 - Pandas
 - Anaconda
 
-为什么要用python
+问：为什么要用python
+答：不知道，大家都在用。
+
+python的优势：  
+
+![](assets/markdown-img-paste-20200319160012691.png)  
+
+开发环境，我比较喜欢IDE，就pycharm吧。  

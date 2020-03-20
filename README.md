@@ -1,8 +1,8 @@
 # AI2match
-在实验室工作，将来可能会当老师，先行写一部教程出来，从0开始学习.  
-基础进阶篇数学 python 机器学习 等  
+在实验室工作，将来可能会当老师，先行写一部教程出来，从0开始学习.   
+基础进阶篇数学 python 机器学习 等   
 实战竞赛篇 竞赛cvpr 天池 kaggle等，量化投资实战等。  
-About: <a href="http://evilxyz.xyz/?page_id=12">http://evilxyz.xyz/?page_id=12</a>  
+About Me: <a href="http://evilxyz.xyz/?page_id=12">http://evilxyz.xyz/?page_id=12</a>  
 
 
 
@@ -48,19 +48,22 @@ About: <a href="http://evilxyz.xyz/?page_id=12">http://evilxyz.xyz/?page_id=12</
 2.2.2  [python进阶]()  
 
 第3章 机器学习笔记  
-3.1  [less1](notes/MLNote/less1.md)  
-3.2  [less2](notes/MLNote/less2.md)  
-3.3  [less3](notes/MLNote/less3.md)  
-3.4  [less4](notes/MLNote/less4.md)  
-3.5  [less5](notes/MLNote/less5.md)  
-3.6  [less6](notes/MLNote/less6.md)  
-3.7  [less7](notes/MLNote/less7.md)  
+3.0  [README](notes/MLNote/README.md)  
+3.1  [less1-note:The Learning Problem](notes/MLNote/less1.md)  
+3.2  [less2-note:Learning to Answer Yes­No](notes/MLNote/less2.md)  
+3.3  [less3-note:Types of Learning](notes/MLNote/less3.md)  
+3.4  [less4-note:Feasibility of Learning](notes/MLNote/less4.md)  
+3.5  [less5-note:Training versus Testing](notes/MLNote/less5.md)  
+3.6  [less6-note:Theory of Generalization](notes/MLNote/less6.md)  
+3.7  [less7-note:The VC Dimension](notes/MLNote/less7.md)  
+3.8  [less8-note:Noise and Error](notes/MLNote/less8.md)  
+3.9  [less9-note:Linear Regression](notes/MLNote/less9.md)  
 3.x  [手推公式](notes/shoutui.pdf)  
 
 第4章 深度学习笔记  
 
 第5章 模型与库  
-
+5.1  [python编程库](basic/python/python编程库.md)  
 
 第二部分 竞赛实战篇  
 第6章 竞赛篇  
