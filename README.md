@@ -43,9 +43,10 @@ About Me: <a href="http://evilxyz.xyz/?page_id=12">http://evilxyz.xyz/?page_id=1
 
 第2章 python基础  
 2.1 [环境配置](basic/python/环境配置.md)  
-2.2.0 [说明部分](basic/python/python基础.md)  
-2.2.1 [python基本语法](basic/python/python-syntax.md)  
-2.2.2  [python进阶]()  
+2.2 [说明部分](basic/python/python基础.md)  
+2.3 [python基本语法](basic/python/python-syntax.md)  
+2.4  [python语言讲解](basic/python/python语言讲解.ipynb)    
+2.5  [python完整代码样例](basic/python/python完整代码样例.py)    
 
 第3章 机器学习笔记  
 3.0  [README](notes/MLNote/README.md)  

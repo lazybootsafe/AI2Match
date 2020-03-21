@@ -7,3 +7,9 @@
 机器学习基础--比赛需求：  
 
 ![](assets/markdown-img-paste-20200320101515530.png)  
+
+2.3 [python基本语法](basic/python/python-syntax.md)  
+2.4  [python语言讲解](basic/python/python语言讲解.ipynb)    
+2.5  [python完整代码样例](basic/python/python完整代码样例.py)    
+
+一些问题：
