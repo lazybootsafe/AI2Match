@@ -61,7 +61,8 @@ About Me: <a href="http://evilxyz.xyz/?page_id=12">http://evilxyz.xyz/?page_id=1
 3.9  [less9-note:Linear Regression](notes/MLNote/less9.md)  
 3.10 [less10-note:Logistic Regression](notes/MLNote/less10.md)  
 3.11 [less11-note:Linear Models for Classification](notes/MLNote/less11.md)  
-3.12 [less12-note:]
+3.12 [less12-note:Nonlinear Transformation](notes/MLNote/less12.md)  
+3.13 [less13-note:Hazard of Overfitting](notes/MLNote/less13.md)  
 3.x  [人工智能术语](notes/MLNote/translate.md)  
 3.x  [手推公式](notes/shoutui.pdf)  
 
