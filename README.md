@@ -67,6 +67,8 @@ About Me: <a href="http://evilxyz.xyz/?page_id=12">http://evilxyz.xyz/?page_id=1
 3.x  [手推公式](notes/shoutui.pdf)  
 
 第4章 深度学习笔记  
+4.1  [less1-note:神经网络与深度学习-概述](notes/DLNote/less1.md)  
+4.2  
 
 第5章 模型与库  
 5.1  [python编程库](basic/python/python编程库.md)  
@@ -115,5 +117,5 @@ wx号:F182499
 ----
 新买的ireader a6摔坏屏幕了,真开心.
 ```
-tainanshou
+tai nan shou
 ```
